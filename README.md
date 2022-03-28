@@ -1,0 +1,3 @@
+# Data-driven_update_of_AGROVOC_using_agricultural_text_corpora
+The repository contains the SPARQL queries submitted to AGROVOC versions available from 2013 to 2022, to obtain the data used for the creation of tables and figures included in the "Data-driven update of AGROVOC using agricultural text corpora" paper. The paper has been submitted to the HAICTA 2022 conference.
+There are two txt files in the repository: (i) one file containing the query that has been used to retrieve the total number of concepts in the various AGROVOC versions; and (ii) one file containing the query that has been used to retrieve the number of relations types in the various AGROVOC versions.
